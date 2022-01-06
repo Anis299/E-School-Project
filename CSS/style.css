@@ -1,0 +1,120 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(233, 233, 233);
+}
+            /* Header CSS Start Here */
+header{
+    background-color: rgb(234, 255, 234);
+}
+.navbar-brand img{
+    width: 200px;
+}
+.btn{
+    background-color: rgb(12, 185, 12);
+    padding: 8px 40px;
+    border-radius: 50px;
+    border: none;
+}
+.navbar-nav li{
+    padding-right: 20px;
+}
+.header-text h4{
+    color: rgb(255, 80, 49);
+}
+.green-text{
+    color: rgb(12, 185, 12);
+}
+.header-image img{
+    width: 500px;
+    padding: 50px;
+}
+            /* Header CSS End Here */
+
+            /* Banner CSS Start Here */
+.image-box img{
+    width: 100px;
+    height: auto;
+    vertical-align: middle;
+    padding: 25px;
+}
+.image-box{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 15px 15px;
+}
+.feature-box{
+    box-shadow: 20px 20px 25px rgb(216, 213, 213);
+}
+            /* Banner CSS End Here */
+
+            /* Online course CSS Start Here */
+.card-image img{
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+    padding: 10px;
+}
+.course-icon{
+    width: 25px;
+    height: 25px;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+}
+            /* Online course CSS End Here */
+            /* Testimonial CSS Start Here */
+.test-pic img{
+    width: 200px;
+    margin-left: 130px;
+}            
+.test-text p{
+    margin-left: 80px;
+}
+            /* Testimonial CSS End Here */
+
+            /* Success Story CSS Start Here */
+.success h1{
+    margin-left: 430px;
+} 
+.card-header img{
+    width: 325px;
+    height: auto;
+    vertical-align: middle;
+    border-radius: 10px;
+    border: none;
+}          
+            /* Success Story CSS End Here */
+            /* Subscribe CSS Start here */
+.subscribe{
+    background-color: rgb(12, 185, 12);
+    border-radius: 10px;
+    padding: 20px 50px;
+}
+.sub-text h1{
+    margin-left: 400px;
+}
+.button{
+    border-radius: 5px;
+    margin-left: 20px;
+}
+            /* Subscribe CSS End here */
+
+            /* Footer CSS Start Here */
+.container{
+    margin-top: 100px;
+}
+.text-light a{
+    text-decoration: none;
+    color: white;
+}
+.text-light a:hover{
+    color: aqua;
+}
+
+            /* Footer CSS End Here */
